@@ -1,6 +1,6 @@
 {
     "name": "oneslynx/rajaongkir-laravel",
-    "description": "Package untuk request API RajaOngkir, Support Starter, Basic, dan Pro",
+    "description": "Package untuk request API RajaOngkir, Support Starter, Basic, dan Pro. Untuk Laravel 5/6/7",
     "keywords": [
         "rajaongkir", "application programming interface", "laravel"
     ],
