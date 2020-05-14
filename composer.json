@@ -1,0 +1,24 @@
+{
+    "name": "oneslynx/rajaongkir-laravel",
+    "description": "Package untuk request API RajaOngkir, Support Starter, Basic, dan Pro",
+    "keywords": [
+        "rajaongkir", "application programming interface", "laravel"
+    ],
+    "license": "MIT",
+    "type": "package",
+    "authors": [
+        {
+            "name": "Ones Lynx",
+            "email": "ones006@gmail.com"
+        }
+    ],
+    "require": {
+    	"php": ">=7.1",
+    	"illuminate/support": "~5.0|^6.0|^7.0"
+    },
+    "autoload": {
+    	"psr-4": {
+    		"OnesLynx\\RajaOngkir\\": "src/"
+    	}
+    }
+}
