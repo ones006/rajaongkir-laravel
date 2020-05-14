@@ -1,6 +1,6 @@
 <?php
 
-namespace RifkyEkayama\RajaOngkir;
+namespace OnesLynx\RajaOngkir;
 
 /**
  * RajaOngkir Endpoints
